@@ -52,5 +52,5 @@ Je suis **Alex**, un **admin DevOps** passionné par le monde de l'IT. Mon objec
 ## 🌍 Où me trouver
 
 - 🐙 **GitHub** : [alexcmb](https://github.com/alexcmb)  
-- 💼 **LinkedIn** : [Lien vers ton profil LinkedIn]  
-- 📧 **Contact** : [Ton e-mail professionnel]
+- 💼 **LinkedIn** :  
+- 📧 **Contact** : 
